@@ -1,0 +1,7 @@
+responsiveness checking
+1. Hero
+2. About
+3. Information not fully complete
+4. Company
+5. Project
+6. Service
